@@ -1,9 +1,9 @@
-logo: http://placehold.it/400x200
+logo: 'http://placehold.it/400x200'
 primary:
-  background_color: '#c00'
-  text_color: '#fff'
+  background_color: '#009dcc'
+  text_color: '#ffffff'
 secondary:
-  background_color: '#0c0'
-  text_color: '#fff'
-background_color: '#eee'
-text_color: '#333'
+  background_color: '#00cc00'
+  text_color: '#ffffff'
+background_color: '#eeeeee'
+text_color: '#333333'
