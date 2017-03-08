@@ -1,11 +1,11 @@
 ---
 ---
 
-$c-primary_bg:    {{site.data.styles.primary.background}};
-$c-primary_c:     {{site.data.styles.primary.text}};
-$c-secondary_bg:  {{site.data.styles.secondary.background}};
-$c-secondary_c:   {{site.data.styles.secondary.text}};
-$c-background:    {{site.data.styles.background}};
-$c-text:          {{site.data.styles.text}};
+$c-primary_bg:    {{site.data.styles.primary.background_color}};
+$c-primary_c:     {{site.data.styles.primary.text_color}};
+$c-secondary_bg:  {{site.data.styles.secondary.background_color}};
+$c-secondary_c:   {{site.data.styles.secondary.text_color}};
+$c-background:    {{site.data.styles.background_color}};
+$c-text:          {{site.data.styles.text_color}};
 
 @import 'main';
