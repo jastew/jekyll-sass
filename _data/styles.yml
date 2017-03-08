@@ -5,5 +5,5 @@ primary:
 secondary:
   background_color: '#00cc00'
   text_color: '#ffffff'
-background_color: '#eeeeee'
-text_color: '#333333'
+background_color: '#111111'
+text_color: '#ffffff'
