@@ -1,0 +1,9 @@
+logo: http://placehold.it/400x200
+primary:
+  background: '#c00'
+  text: '#fff'
+secondary:
+  background: '#0c0'
+  text: '#fff'
+background: '#eee'
+text: '#333'

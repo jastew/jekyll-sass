@@ -1,0 +1,20 @@
+.btn {
+  display: inline-block;
+  padding: 0.5em;
+  text-decoration: none;
+  background: #ddd;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #333333;
+  
+  &--primary {
+    background: $c-primary_bg;
+    color: $c-primary_c;
+  }
+  
+  &--secondary {
+    background: $c-secondary_bg;
+    color: $c-secondary_c;
+  }
+}
