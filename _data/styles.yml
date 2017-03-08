@@ -3,7 +3,7 @@ primary:
   background_color: '#009dcc'
   text_color: '#ffffff'
 secondary:
-  background_color: '#00cc00'
+  background_color: '#d68400'
   text_color: '#ffffff'
 background_color: '#111111'
 text_color: '#ffffff'
