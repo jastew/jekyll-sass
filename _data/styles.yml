@@ -1,4 +1,4 @@
-logo: 'http://placehold.it/400x180'
+logo_path: 'http://placehold.it/400x180'
 primary:
   background_color: '#009dcc'
   text_color: '#ffffff'
